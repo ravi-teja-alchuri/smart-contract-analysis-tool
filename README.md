@@ -62,4 +62,10 @@ Expr.g4
 2) Style Guide Violation.
 3) Private Modifiers.
 4) Implicit Visibility Level.
+5) Balance Equality.
+6) Use bytes instead of byteArray.
+7) Event definition. 
+8) Function definition. 
+9) Token API violation. 
+10) State variable declaration. 
 
