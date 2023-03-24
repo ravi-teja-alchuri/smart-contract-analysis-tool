@@ -1,0 +1,16 @@
+/target/
+/bin/
+
+*.class
+*.settings
+*.project
+*.classpath
+*/target/*
+/.metadata
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.DS_Store
