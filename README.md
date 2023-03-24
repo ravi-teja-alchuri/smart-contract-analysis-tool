@@ -57,7 +57,7 @@ Expr.g4
 ● Click ok >run. Provide the required test file as input as shown below
 ```
 
-## Output: Consists of warnings of 4 kinds of vulnerabilities for the input .sol smart contract. Namely:
+## Output: Consists of warnings of various kinds of vulnerabilities for the input .sol smart contract. Namely:
 1) Compiler Version not fixed.
 2) Style Guide Violation.
 3) Private Modifiers.
